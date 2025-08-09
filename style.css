@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    background-color: white;
+    padding: 20px;
+}
+
+.name {
+    color: darkblue;
+    font-size: 24px;
+}
+
+.role {
+    color: darkgreen;
+    font-size: 18px;
+}
+
+.bio {
+    color: gray;
+    font-size: 16px;
+}
